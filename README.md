@@ -8,4 +8,11 @@ Topics I'd like to improve my knowledge on
 
 ## Spark
 
+
+## Akka
+
+## Spray
+
 ## Machine Learning
+
+To check: [MapR Machine Learning Course](http://www.broadwayworld.com/bwwgeeks/article/MapR-Unveils-Free-Complete-Apache-Spark-Training-and-Developer-Certification-20160217)
