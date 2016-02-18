@@ -12,6 +12,7 @@ Topics I'd like to improve my knowledge on
 ## Akka
 
 * [Documentation](http://doc.akka.io/docs/akka/current/scala.html)
+* [Good first introduction](http://www.reactive.io/tips/2014/03/28/getting-started-with-actor-based-programming-using-scala-and-akka/)
 
 ## Spray
 
