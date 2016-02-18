@@ -11,6 +11,8 @@ Topics I'd like to improve my knowledge on
 
 ## Akka
 
+* [Documentation](http://doc.akka.io/docs/akka/current/scala.html)
+
 ## Spray
 
 ## Machine Learning
