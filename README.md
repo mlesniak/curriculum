@@ -7,6 +7,10 @@ Topics I'd like to improve my knowledge on
 * [Coursera course](https://class.coursera.org/progfun-005)
 * [List of awesome scala libraries](https://github.com/lauris/awesome-scala)
 
+### SBT
+
+* [Assembly plugin](https://github.com/sbt/sbt-assembly)
+
 ## Spark
 
 
